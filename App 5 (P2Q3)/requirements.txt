@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+langchain-core>=0.2
+langchain-huggingface>=0.0.3
+transformers>=4.40
+torch>=2.2
+sentencepiece>=0.2
+sacremoses>=0.1
